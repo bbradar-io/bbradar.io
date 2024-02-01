@@ -1,8 +1,10 @@
-# bbradar.io
+# [bbradar.io](https://bbradar.io)
 A web tool to aggregate the latest publicly listed Bug Bounty programs.
 
-## About
+## Web App 
+[bbradar.io](https://bbradar.io)
 
+## About
 Hello frens,
 
 I often find myself browsing through the various bug bounty platforms I hack on, to check out the latest programs. It became a bit frustrating after a while, having to check out each platform individually, so I decided to build this small tracker web app, to consolidate the latest publicly available programs. I hope this helps you pick a program you like faster and allow you to focus your energy on actual research instead.
