@@ -20,7 +20,8 @@ bbradar.io lists the latest publicly accessible bug bounty programs from multipl
 
 ### Currently Supported Platforms:
 
-- CodeHawks – New
+- BugBase - new
+- CodeHawks
 - HackerOne
 - BugCrowd
 - Intigriti
