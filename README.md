@@ -14,13 +14,14 @@ I often find myself browsing through the various bug bounty platforms I hack on,
 bbradar.io lists the latest publicly accessible bug bounty programs from multiple platforms. It auto updates the list every 10 mins. It also allows for filerting programs by type such as: domain , api , smart contract and more!
 
 ## How often does the list get updated?
-- Programs auto-refresh every 10 mins.
+- Programs auto-refresh every 7 mins.
 
 ## Which platforms are supported?
 
 ### Currently Supported Platforms:
 
-- BugBase - **new**
+- Remedy - **New!**
+- BugBase
 - CodeHawks
 - HackerOne
 - BugCrowd
