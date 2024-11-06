@@ -1,3 +1,15 @@
+**03/11/2024**
+
+- Added Web2/Web3 Category Tabs
+
+
+**28/10/2024**
+
+- Updated HackenProof program fetching
+- Added Bug Bounty Tools Section
+- Otpimized several backend workflows
+
+
 **30/07/2024**
 
 - Updated HackenProof logo
