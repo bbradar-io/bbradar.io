@@ -20,7 +20,8 @@ bbradar.io lists the latest publicly accessible bug bounty programs from multipl
 
 ### Currently Supported Platforms:
 
-- Remedy - **New!**
+- Compass Security - **New!**
+- Remedy
 - BugBase
 - CodeHawks
 - HackerOne
