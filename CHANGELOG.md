@@ -1,3 +1,9 @@
+**28/07/2025**
+
+- Full UI redesign
+- Added Bounty Ammount Data point
+- Many other features and fixes.
+  
 **03/11/2024**
 
 - Added Web2/Web3 Category Tabs
