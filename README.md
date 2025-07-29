@@ -20,7 +20,8 @@ bbradar.io lists the latest publicly accessible bug bounty programs from multipl
 
 ### Currently Supported Platforms:
 
-- Compass Security - **New!**
+- Compass Security
+- PatchDay
 - Remedy
 - BugBase
 - CodeHawks
@@ -36,5 +37,11 @@ bbradar.io lists the latest publicly accessible bug bounty programs from multipl
 
 New platforms are constantly added! If there is one I’ve missed and you want to see it on bbradar.io, [drop me a DM on 𝕏](https://twitter.com/kleoz_). 
 
-![image](https://github.com/kleozzy/bbradar.io/assets/29057778/224b8294-3f78-45ae-8a82-61a3bfca0543)
+<img width="1402" height="939" alt="image" src="https://github.com/user-attachments/assets/369141ed-fa1f-4e9b-8540-fadbbb0723d8" />
+
+
+## Found a Bug or need a new feature?
+
+Please open an [issue](https://github.com/bbradar-io/bbradar.io/issues) on this repo.
+
 
