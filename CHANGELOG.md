@@ -1,48 +1,45 @@
+# Changelog
+
+All notable changes to bbradar.io are documented here. Dates use DD/MM/YYYY.
+
 **28/07/2025**
 
-- Full UI redesign
-- Added Bounty Ammount Data point
-- Many other features and fixes.
-  
+- 🎨 UI: Full redesign
+- ✨ Feature: Added bounty amount data point
+- 🔧 Improvements: Many other features and fixes
+
 **03/11/2024**
 
-- Added Web2/Web3 Category Tabs
-
+- ✨ Feature: Added Web2/Web3 category tabs
 
 **28/10/2024**
 
-- Updated HackenProof program fetching
-- Added Bug Bounty Tools Section
-- Otpimized several backend workflows
-
+- 🔁 Fetching: Updated HackenProof program fetching
+- 🧰 Feature: Added Bug Bounty Tools section
+- ⚙️ Backend: Optimized several backend workflows
 
 **30/07/2024**
 
-- Updated HackenProof logo
-- Optimized speed and update time.
-- Fixed issues with missing programs for a brief period of time.
-
+- 🖼️ Branding: Updated HackenProof logo
+- ⚡ Performance: Optimized speed and refresh time
+- 🐛 Fix: Resolved temporary issue with missing programs
 
 **05/07/2024**
 
-- Added a new platform : Remedy
-- Added new platforms section
-
+- 🧭 Platforms: Added Remedy platform
+- ✨ Feature: Added new platforms section
 
 **26/06/2024**
 
-- Filter out Programs with a future Date set
-
+- 🧹 Data quality: Filtered out programs with future dates
 
 **18/06/2024**
 
-- Added a new platform : BugBase
-- Fixed Datetime for various platforms
-
+- 🧭 Platforms: Added BugBase platform
+- 🐛 Fix: Corrected datetime handling across platforms
 
 **04/03/2024**
 
-- Added Datetime instead of just Date
-- Added Program Type into the Programs List
-- Type is now searchable/sortable through the universal search bar
-- Increased update time to every 10 mins
+- ⏱️ UX: Switched to full Datetime (instead of Date)
+- ✨ Feature: Added Program Type to the list; searchable/sortable via the universal search bar
+- ⚙️ Backend: Increased refresh cadence to ~10 minutes
