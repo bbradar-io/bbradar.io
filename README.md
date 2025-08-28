@@ -18,7 +18,7 @@ The Bug Bounty Radar (bbradar.io) is a fast, clean aggregator for publicly liste
   </tr>
   <tr>
     <td><strong>Platforms</strong></td>
-    <td>HackerOne, Bugcrowd, Intigriti, YesWeHack, Immunefi, Code4rena, Sherlock, HackenProof, BugBase, PatchDay, Compass Security, Remedy, Standoff365, IssueHunt, BugRap</td>
+    <td>HackerOne, Bugcrowd, Intigriti, YesWeHack, Immunefi, Code4rena, CodeHawks, Sherlock, HackenProof, BugBase, PatchDay, Compass Security, Remedy, Standoff365, IssueHunt, BugRap</td>
   </tr>
   <tr>
     <td><strong>Program types</strong></td>
@@ -85,7 +85,7 @@ The Bug Bounty Radar (bbradar.io) is a fast, clean aggregator for publicly liste
   </tr>
   <tr>
     <td><a href="http://bbradar.io/platforms/bugrap">BugRap</a></td>
-    <td></td>
+    <td><a href="http://bbradar.io/platforms/codehawks">CodeHawks</a></td>
   </tr>
 </table>
 

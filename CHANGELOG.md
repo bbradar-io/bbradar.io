@@ -2,6 +2,11 @@
 
 All notable changes to bbradar.io are documented here. Dates use DD/MM/YYYY.
 
+**28/08/2025**
+
+- 🌐 Platforms: Added IssueHunt and BugRap platforms
+- ❓ FAQ: Added FAQs
+
 **28/07/2025**
 
 - 🎨 UI: Full redesign
@@ -26,7 +31,7 @@ All notable changes to bbradar.io are documented here. Dates use DD/MM/YYYY.
 
 **05/07/2024**
 
-- 🧭 Platforms: Added Remedy platform
+ - 🌐 Platforms: Added Remedy platform
 - ✨ Feature: Added new platforms section
 
 **26/06/2024**
@@ -35,7 +40,7 @@ All notable changes to bbradar.io are documented here. Dates use DD/MM/YYYY.
 
 **18/06/2024**
 
-- 🧭 Platforms: Added BugBase platform
+ - 🌐 Platforms: Added BugBase platform
 - 🐛 Fix: Corrected datetime handling across platforms
 
 **04/03/2024**
