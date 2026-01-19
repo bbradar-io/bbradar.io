@@ -1,6 +1,10 @@
 # Changelog
 
 All notable changes to bbradar.io are documented here. Dates use DD/MM/YYYY.
+**31/08/2025**
+
+- 🐛 Fix: wildcard tags now properly work across all platforms
+- 🐛 Fix: Resolved small UI sorting issue
 
 **28/08/2025**
 
