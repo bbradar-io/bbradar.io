@@ -2,17 +2,23 @@
 
 The latest public bug bounty programs in one place across all major platforms - HackerOne, Bugcrowd, Intigriti, YesWeHack, Immunefi, and many more.
 
-````carousel
-![Dark mode - Latest Bug Bounty Programs](screenshots/dark-mode-programs.png)
-<!-- slide -->
-![Dark mode - Latest Targets](screenshots/dark-mode-targets.png)
-<!-- slide -->
-![Dark mode - Analytics Dashboard](screenshots/dark-mode-analytics.png)
-<!-- slide -->
-![Light mode - Latest Bug Bounty Programs](screenshots/light-mode-programs.png)
-<!-- slide -->
-![Light mode - Latest Targets](screenshots/light-mode-targets.png)
-````
+![bbradar.io - Latest Bug Bounty Programs (Dark Mode)](screenshots/dark-mode-programs.png)
+
+<details>
+<summary>📸 More Screenshots</summary>
+
+### Latest Targets Monitoring
+![Latest Targets - Dark Mode](screenshots/dark-mode-targets.png)
+
+### Analytics Dashboard
+![Analytics Dashboard - Dark Mode](screenshots/dark-mode-analytics.png)
+
+### Light Mode Interface
+![Latest Bug Bounty Programs - Light Mode](screenshots/light-mode-programs.png)
+
+![Latest Targets - Light Mode](screenshots/light-mode-targets.png)
+
+</details>
 
 ## Website
 Visit the website: https://bbradar.io
@@ -41,7 +47,7 @@ Bug Bounty Radar (bbradar.io) is a fast, comprehensive aggregator for publicly l
   </tr>
   <tr>
     <td><strong>Filters and search</strong></td>
-    <td>Keyword search, tags, program type, language, platform filters</td>
+    <td>Keyword search, tags, program type, 15+ programming languages (Python, JavaScript, Go, Solidity, Rust, etc.), platform filters, and more</td>
   </tr>
   <tr>
     <td><strong>Update cadence</strong></td>
@@ -57,8 +63,11 @@ Bug Bounty Radar (bbradar.io) is a fast, comprehensive aggregator for publicly l
 
 - **Unified Feed** - Track public programs across all major bug bounty platforms (Web2 and Web3) in one place
 - **Latest Targets** - Monitor freshly added bug bounty targets and scope expansions across all supported platforms with real-time updates
+- **Live Notifications** - Get notified about new programs and scope changes as they happen
 - **Analytics Dashboard** - View comprehensive statistics including active programs (417+), new programs (90+ per quarter), VDP share (21%), and platform distribution insights
-- **Powerful Discovery** - Filter by type (web, API, mobile, smart contracts), tags, languages, and platforms
+- **Language Filters** - Filter programs by 15+ programming languages including Python, JavaScript, TypeScript, Go, Rust, Solidity, Cairo, Clarity, Move, C#, C++, Kotlin, Java, Sway, and more
+- **Powerful Discovery** - Filter by type (web, API, mobile, smart contracts), comprehensive tag system, asset types, and platforms
+- **Advanced Tag System** - Filter by ai model, blockchain-dlt, CIDR, domain, executable, hardware, IP address, mobile, smart contract, source code, wildcard, and many more
 - **Bounty Awareness** - Surface bounty amounts and reward ranges when available
 - **Pro Subscription** - Unlock advanced features and enhanced monitoring capabilities
 - **Dark/Light Mode** - Choose your preferred theme for comfortable browsing
