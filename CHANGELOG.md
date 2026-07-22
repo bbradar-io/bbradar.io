@@ -2,6 +2,16 @@
 
 All notable changes to bbradar.io are documented here. Dates use DD/MM/YYYY.
 
+**22/07/2026**
+
+- 🧭 Opportunity Tags: Added Elite, Hot, Strong, and Potential program rankings from freshness, public report activity, and advertised reward signals, with score factors and supporting reasons
+- 🎯 Targets: Added 0–100 Target Opportunity Scores, target labels, “Why This Target” explanations, duplicate/competition-risk estimates, advanced filters, and `.txt` exports
+- 🧑‍💻 GitHub commits: Added monitored branch-head SHA transitions mapped to affected programs and targets, silent first-observation baselines, a dedicated Commits feed, and direct compare or commit links
+- 📲 Alerts: Added private Telegram delivery and personal notification rules for lifecycle, target, and opt-in repository events; kept Discord as shared Pro channels
+- 🔌 Developer tools: Added the public Pro documentation hub, `opportunity_tag` and target-intelligence API fields, and the local `@bbradar/mcp` server with discovery, comparison, scope, export, and research-planning workflows
+- 🌐 Platforms: Expanded documented coverage to 24 platforms with AuditOne, BI.ZONE, Bug Bounty Switzerland, Bugbase, and CertiK
+- 🖼️ Profile: Reworked the README around the complete free/Pro feature set and regenerated program, target, analytics, Pro, Docs, Opportunity Tags, repository-change, notification-rule, and root preview screenshots from the live UI
+
 **17/04/2026**
 
 - 📝 Profile: Refreshed README feature coverage and regenerated the public screenshots from the current live UI
